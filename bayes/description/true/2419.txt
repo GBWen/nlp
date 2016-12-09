@@ -1,0 +1,1 @@
+iDoctor   Interactive Web Portal  -diagnosis  resembles  real-life patient-doctor encounter, enabling natural-language communication  health  retrieval leading  main diagnosis. The focus   simplicity, powerful reasoning engine, natural language processing  multiple languages  broad domain coverage.

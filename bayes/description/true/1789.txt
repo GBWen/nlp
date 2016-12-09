@@ -1,0 +1,1 @@
+ACS CompIQ  accept import data    format. Likewise,   accommodate   format   export. Files   fixed-length ASCII data."

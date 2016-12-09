@@ -1,0 +1,1 @@
+Currently  beta product   basic functionality  capture client & models data, allowing agencies  create projects  assign models   -    simple analytics. As  grow,  plan  bring  fine-grained analytics, enhanced external services integration   deep learning concepts."

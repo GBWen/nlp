@@ -1,0 +1,1 @@
+TeamPatent   browser-based collaborative editor  preparing  examining patent applications.

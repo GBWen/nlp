@@ -1,0 +1,1 @@
+The SindiQ    news retrieval system  Portuguese natively semantic . It  artificial intelligence techniques  identify locations    enabling  recovery accurately     user' locale. Their technology     automatically identify keywords    news  check  social relevance  geo-  (analyzing Twitter ) .

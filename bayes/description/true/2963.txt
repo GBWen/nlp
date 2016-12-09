@@ -1,0 +1,1 @@
+"Ritc (Rules   Cloud)   rule engine  integrates Saas  IoT resources  services  REST APIs. It    compose applications  writing code; integrate  complementary microservices  data, content, transactions,  analysis; restructure  organize internal systems  support  projects   uniform manner; provide connectors  existing services.

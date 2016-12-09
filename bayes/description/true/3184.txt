@@ -1,0 +1,1 @@
+Stock Circles' algorithmic trading system monitors  trades elite stocks listed   S&P 500, Nasdaq 100  Dow 30 exclusively.

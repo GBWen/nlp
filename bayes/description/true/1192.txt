@@ -1,0 +1,1 @@
+Intentiva' uCentric interface   interface  recognizes peoples intentions, allowing   interact  TVs, PCs    devices  simply      finger  waving  hand (patents pending). Currently    input   depth camera   Xbox Kinect, Asus Xtion,   PrimeSense sensor. A version  accepts inputs   standard webcam     mid 2014."

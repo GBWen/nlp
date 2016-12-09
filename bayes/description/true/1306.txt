@@ -1,0 +1,1 @@
+The OpenCalais Web Service automatically creates rich semantic metadata   content  submit      . Using natural language processing, machine learning   methods, Calais analyzes  document    entities  . But, Calais    classic entity identification  returns    events hidden   text  .

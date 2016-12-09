@@ -1,0 +1,1 @@
+""AirVision NAV ""- Autonomous  safe navigation: flight  GPS denied environment; (  future -""sense  avoid"" functionality, autonomous takeoff / landing). 

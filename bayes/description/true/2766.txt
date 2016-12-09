@@ -1,0 +1,1 @@
+Once  customer  connected   trade system, (Ecommerce, POS, ..)   engine creates  personalized shopping experience  recommending products  services based   customer purchasing history  .

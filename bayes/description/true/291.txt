@@ -1,0 +1,1 @@
+"Mapillary   service  crowdsourcing map photos  street view. Using simple tools  smartphones  action cameras   collect photos   combined  street view. Computer vision   server- automatically matches  combines photos  time   users. Photos  processed  privacy preserving blurring   detection  license plate detection.

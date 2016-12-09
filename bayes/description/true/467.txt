@@ -1,0 +1,1 @@
+Provides real-time data: intruders, motion, heat, fire, smoke, gases & 

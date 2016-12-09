@@ -1,0 +1,1 @@
+"Ersatz   web-based machine learning platform designed  assist  data wrangling, machine learning,  model deployment. It automates  simplifies  deep learning tasks, hiding  complex machinations   neural network   easy-- web interface  API.

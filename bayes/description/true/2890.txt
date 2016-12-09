@@ -1,0 +1,1 @@
+Service  real time extracting  collecting enriched data,   private  relevant public content   business Clients. The Service extracts  enriched data types  relevant content: Entity, Sentiment, Keywords, Concepts, Relation  Taxonomy. Access  stored enriched data   intelligent tools  APIs requests."

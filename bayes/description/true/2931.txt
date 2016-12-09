@@ -1,0 +1,1 @@
+ securely connect meters, sensors, equipment, assets  SCADA/BMS/Metering platforms 

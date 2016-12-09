@@ -1,0 +1,1 @@
+LilBots  Arduino Uno compatible  programmable   USB;   programmed  Linux, OS X,  Windows computers, capable  front, ,  left obstacle detection  IR LEDs  edge detection   IR LED;   buzzer playing musical tones  astromech droid sounds,  wheel encoders  precise odometry-based control,  owns -source hardware  software.

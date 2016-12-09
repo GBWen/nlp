@@ -1,0 +1,1 @@
+- Vehicle features   autonomous operation, person  capability, automatic obstacle avoidance, real-time performance suitable   UAV.

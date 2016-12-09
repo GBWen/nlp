@@ -1,0 +1,1 @@
+sportsQ   Artificial Intelligence, Natural Language Processing (NLP)-based Sports Information  Social Media platform. It   Daily  season  Fantasy Sports Players, avid Sports Fans    wager  Sports,  ability  query  complex Sports Statistics  Information. For ,  User  query Give   top 7 QBs   NFC  lead  TDs, passing yards  interceptions  2011, 2012  2013,    result  returned.

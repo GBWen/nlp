@@ -1,0 +1,1 @@
+"LilBot   -source, balancing robotics platform suitable  academics, hobbyists,  hackers  exploration  balancing robots  control systems. It  programmed    Arduino Uno  takes standard Arduino shields.

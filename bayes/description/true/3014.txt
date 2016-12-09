@@ -1,0 +1,1 @@
+- Vehicle actuation - environment mapping  adaptive path planning, indoor/outdoor localization  control, arbitrary wheel configuration platforms / kinematics

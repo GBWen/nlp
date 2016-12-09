@@ -1,0 +1,1 @@
+It  intended  provide support   wide range  , financial instruments  time scales. It  tooling  real-time comparison  live data  rolling backtesting  price movements  range  rolling time-framed previous day   time period data,   separate tool  running  strategies  live mode. Strategies  require  Java coding experience,  knowledge  XMPP (ejabberd)    change    

@@ -1,0 +1,1 @@
+Piccolo,  pocket-sized  source CNC-bot,  users  build 3 axis robots  laser-cutters, --shelf hardware,  Arduino.

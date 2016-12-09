@@ -1,0 +1,1 @@
+This business plan focuses exclusively  Stottler Henke' DataMontage data visualization software  rapid visual analysis  complex, time-oriented data.  DataMontage   Java class library  displays -dense arrays  timelines  graphics    stacked vertically  arranged  rows  columns, enabling users   patterns  , multivariate data sets      traditional data displays."

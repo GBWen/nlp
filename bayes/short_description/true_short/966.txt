@@ -1,0 +1,1 @@
+Easy   social search & analysis platform,  Twitter firehose   NLP  language detection & accurate sentiment scoring.

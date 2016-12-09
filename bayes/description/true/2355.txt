@@ -1,0 +1,1 @@
+Multi-tenant, AWS-hosted Microservices architecture  processing -resolution natural images (unstructured scenes), extracting textual metadata  Computer Vision & Optical Character Recognition,  storing  metadata associations & resized media.  The system    receipt API ( initiating  processes) &  request API ( search/retrieve processed objects    metadata).

@@ -1,0 +1,1 @@
+EDI files   transmitted  email, FTP,  floppy disk. Information   compliant  OLE, DB/ADO/ODBC -        database engine.

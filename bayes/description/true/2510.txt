@@ -1,0 +1,1 @@
+jClarity tooling  designed  horizontally scaling cloud architectures  resource constrained virtualised environments. It  -updating Daemons,  browser based UI    extremely low impact  underlying O/S  network resources."

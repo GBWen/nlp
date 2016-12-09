@@ -1,0 +1,1 @@
+Wealthport features  user-friendly web interface designed  -technical users. Unlike traditional rule-based ETL  scripting tools, Wealthport   plug--play' system  continuously learns  business expert feedback  adapts  constantly changing data formats, structures,  nomenclatures.

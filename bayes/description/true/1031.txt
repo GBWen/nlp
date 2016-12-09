@@ -1,0 +1,1 @@
+VisiSonics creates tools  applications  combine  proprietary RealSpace audio signal processing algorithms  computer vision  utilize NVIDIAs CUDA parallel GPU architecture  provide   generation  products addressing real  acoustic solutions. The products  tools  created  marketed  VisiSonics address  markets spanning consumer, industrial  security applications.

@@ -1,0 +1,1 @@
+PiccoloLib   library  Arduino  facilitates  writing  Arduino code  Piccolo  drawing  control functions. Controllo   processing app  send test patterns  Piccolo   import SVGs. The design files  Piccolo v1   previous Piccolo versions,  PiccoloLib,  Controllo sources     GitHub, free   modified  repurposed."

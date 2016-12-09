@@ -1,0 +1,1 @@
+"OpenCV (Open Source Computer Vision Library)   -source computer vision  machine learning software library. OpenCV  built  provide  common infrastructure  computer vision applications   accelerate    machine perception   commercial products. Being  BSD-licensed product, OpenCV   easy  businesses  utilize  modify  code.

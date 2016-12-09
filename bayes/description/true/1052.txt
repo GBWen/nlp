@@ -1,0 +1,1 @@
+StockMood.  analyze news stories, classify  sentiment,   measure  potential impact   stock' price direction.

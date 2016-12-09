@@ -1,0 +1,1 @@
+"MarketAPI   XMPP Agent  Presence communication server system infrastructure  developing, monitoring  running automatic trading systems. 

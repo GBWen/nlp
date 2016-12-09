@@ -1,0 +1,1 @@
+The Jade Robot is pre-assembled and has built in UI OLED and D Pad control interface; Bluetooth and USB for remote programming, download, and debugging; all aspect light and object sensors, reflectance spectrometer, polyphonic audio output, differential drive, six green LEDs, expansion ports, camera, and Grippe."

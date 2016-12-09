@@ -1,0 +1,1 @@
+EDI files can be transmitted via email, FTP, or floppy disk. Information is also compliant with OLE, DB/ADO/ODBC - making it possible to work with any database engine.

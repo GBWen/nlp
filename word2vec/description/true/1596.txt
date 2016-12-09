@@ -1,0 +1,1 @@
+The Neurosteer platform allows developers to incorporate high level brain activity interpretation into IoT, wearable, and digital health tools.

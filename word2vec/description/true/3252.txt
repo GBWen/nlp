@@ -1,0 +1,1 @@
+TextTeaser uses a special algorithm to formulated through research to summarize articles. It combines the power of Natural Language Processing and Machine Learning to produce good results. With these technologies, the algorithm keeps getting better with more articles summarized."

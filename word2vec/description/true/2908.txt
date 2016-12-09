@@ -1,0 +1,1 @@
+quub is a new micro-messaging service designed to help people who know each other to share what they're doing at any given moment.  They differentiate themselves from micro-blogging by focusing on "micro-presence", and by providing simple machine learning based suggestions.

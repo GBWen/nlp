@@ -1,0 +1,1 @@
+"Interest Curation Engine: OttoLikes first product VouchTree aims to be a centralized product recommendation service based on a users existing preferences, purchase habits, and social graphs. Imagine food recommendations currently available through Yelp, travel recommendations through TripAdvisor, and product recommendations through Amazon all in a single place.

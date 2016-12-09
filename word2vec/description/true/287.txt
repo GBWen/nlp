@@ -1,0 +1,1 @@
+"Textio uses machine learning and linguistic analysis to predict the success of job listings in real time as companies type them. It checks and provides feedback on the words used in the listings, the fonts that were chosen, how the images got placed, and how many verbs were included. The analytics and feedback is given to companies before they publish their job listings.

@@ -1,0 +1,1 @@
+This is incredibly computationally intensive, and even on a cloud of the fastest computers, it takes a few minutes to process each image.

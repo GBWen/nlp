@@ -1,0 +1,1 @@
+Fluentys vision is to make things fluent. Fluenty is developing natural language understanding (NLU) technology to make machines understand natural languages as humans do.

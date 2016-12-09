@@ -1,0 +1,1 @@
+OpenCV has more than 47 thousand people of user community and estimated number of downloads exceeding 7 million. The library is used extensively in companies, research groups, and by governmental bodies."

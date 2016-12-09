@@ -1,0 +1,1 @@
+PiccoloLib is a library for Arduino that facilitates the writing of Arduino code for Piccolo with drawing and control functions. Controllo is a processing app to send test patterns to Piccolo and to import SVGs. The design files for Piccolo v1 and the previous Piccolo versions, the PiccoloLib, and Controllo sources are all available on GitHub, free to be modified and repurposed."

@@ -1,0 +1,1 @@
+Instead of using social graph and career graph to build trust, Prime Aim uses knowledge graph to build trust, only in finance."

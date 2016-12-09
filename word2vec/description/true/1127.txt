@@ -1,0 +1,1 @@
+Suruna is video recommendation for the masses.  Netflix and YouTube are the only sites that can recommend video today.  We are developing Deep Learning algorithms to bring video intelligence to any Online Video Platform in the world.

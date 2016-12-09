@@ -1,0 +1,1 @@
+WakeApp is our core solution and is aimed to help high-traffic and performance-intensive websites that cannot afford even a second of downtime, and wish to be always up for their customers.

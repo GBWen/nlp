@@ -1,0 +1,1 @@
+DeepGram uses artificial intelligence to recognize speech, search for moments, and categorize audio and video. Try it on calls, meetings, podcasts, video clips, lecturesand get actionable insights from an easy to use API.

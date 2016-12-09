@@ -1,0 +1,1 @@
+The focus is to provide accurate air quality measures, along with temperature, humidity, and UV radiation data accessible through our app. Aggregating all this sensor data over time, along with location data available through our GPS sensor, we can really empower users to understand their environment and increase overall well being.

@@ -1,0 +1,1 @@
+trackle is a fully integrated wearable system that helps women to identify their individual fertility window by tracking the body core temperature.

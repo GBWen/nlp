@@ -1,0 +1,1 @@
+We can filter results by individual examiners, art units, assignees, application types, and claims. Furthermore, we can show changes in behavior over time.

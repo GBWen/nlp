@@ -1,0 +1,1 @@
+4. No dependency on Data type. Bit level compression, able to compress wide array of data including ""Hard to Crack"" formats as JPEG, MP3, MPEG4 and PDF.

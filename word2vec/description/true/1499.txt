@@ -1,0 +1,1 @@
+"Hadean unifies the performance and capabilities of HPC (high-performance computing) and the commoditisation and scale of big data, with easy-to-use development tools.

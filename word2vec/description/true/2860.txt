@@ -1,0 +1,1 @@
+"Piccolo is a pocket-sized open source CNC-bot that allows users to build 3 axis robots using laser-cutters, off-the-shelf hardware, and Arduino. Users can attach a brush or pen to make drawings of robots, or extend Piccolo with sensors, custom toolheads, or with the use of multiple Piccolos together. They can experiment with 2D or 3D digital fabrications.

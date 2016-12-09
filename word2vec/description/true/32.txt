@@ -1,0 +1,1 @@
+Nexthinks patented self-learning and artificial intelligence construct meaningful patterns and IT analytics. Patterns are analyzed in real-time (every minute), enterprise-wide. Analytics are calculated across time and endpoints to detect possible security threats (new pattern on one or more endpoints) and system failures (common failure across multiple endpoints).

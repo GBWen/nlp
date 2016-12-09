@@ -1,0 +1,1 @@
+Bringing movement to VR cameras, VRoomCam makes it possible to autonomously capture VR in locomotion through a patent pending stabilization, machine learning vision system and truly immersive spatial audio.

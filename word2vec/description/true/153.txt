@@ -1,0 +1,1 @@
+Xueba100.com uses STR Technology to simulate the true pictures of the natural environment on Deep learning Model in order to train the convolution neural network to improve character recognition rate of fuzzy pictures and deformation text."

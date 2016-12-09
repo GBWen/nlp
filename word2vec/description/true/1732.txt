@@ -1,0 +1,1 @@
+Actionable Analytics fully integrated machine learning service with mechanical turk. It allows institutions, enterprises to rapidly build predictive models from the datasets already on the cloud.

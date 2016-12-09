@@ -1,0 +1,1 @@
+Our proprietary algorithms detect a broad range of driving behaviors and road conditions on the device, and send the data to our cloud-based platform. It gathers and interprets the data in real time to provide valuable information back to drivers to keep them safe and informed.

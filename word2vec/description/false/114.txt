@@ -1,0 +1,1 @@
+The Cyphort Distributed Platform has been build with flexibility  allowing for seamless integration & detection not only at the edge and network layers but also in Virtual Infrastructures, Cloud Environments, and Mobile Platforms.

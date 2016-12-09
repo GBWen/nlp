@@ -1,0 +1,1 @@
+With the "Silicon Eye" systems, Insightness develops high-speed, low-power visual tracking systems based on brain-inspired technology. These systems (vision chip and software) outperform conventional machine vision approaches in efficiency and allow faster reaction times for mobile robots as well as a lag-free augmented reality experience on smart glasses.

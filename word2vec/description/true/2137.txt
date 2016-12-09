@@ -1,0 +1,1 @@
+"Ecopia Tech Corporation creates intelligent systems that improve the process of analyzing geospatial imagery through the employment of computer vision techniques. It serves as a data agnostic visual recognition engine for geospatial imagery.

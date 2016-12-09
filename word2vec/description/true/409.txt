@@ -1,0 +1,1 @@
+Affinios graph engine is highly-optimized for I/O efficiency and maximizing processing speed on solid state drives (SSD), creating one of the fastest graph analysis and machine learning technologies in the world.

@@ -1,0 +1,1 @@
+Load fresh ingredients into the Sereneti Machine, sync the machine to a smart device, choose the recipe that corresponds to the ingredients, and cooking automatically begins without any further actions.

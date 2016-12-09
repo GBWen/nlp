@@ -1,0 +1,1 @@
+ Our machine learning algorithm analyzes over 30 demographic and behavioral attributes to optimize bids and maximize conversions.

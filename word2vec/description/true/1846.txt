@@ -1,0 +1,1 @@
+AppSeed can identify an enclosed space in your sketch, allowing you to make it into a button, input text, map, or another UI element. Making your sketch into a functioning prototype running on your phone."

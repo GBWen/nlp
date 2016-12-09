@@ -1,0 +1,1 @@
+Emoshape has started the prototyping of the first Emotions Processing Unit  EPU on DSP in the prototyping of a first generation of processor representing a significant advancement for the purpose of Artificial Intelligence Devices and Technologies. 

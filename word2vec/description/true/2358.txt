@@ -1,0 +1,1 @@
+Custom set of libraries that work together to provide OCR for unstructured scenes (natural images) via a 3-pass recognition routine.  grepCV accuracy is comparable on pages of text to commonly available libraries (tesseract, OCRopus, etc.), but exceeds performance on unstructured scenes at a comparable compute cost / speed.

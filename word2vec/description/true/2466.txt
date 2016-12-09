@@ -1,0 +1,1 @@
+"IntuView leads the artificial-intuition revolution with field-proven technology and solutions for sentiment analysis, entity extraction, name matching and idea mining in a variety of languages, including English, Arabic, French and Spanish. The technology features a Natural Language Processing (NLP) platform provided both as a standalone server and a cloud-based API.  

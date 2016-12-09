@@ -1,0 +1,1 @@
+- La gestion assiste des intrants (eau, engrais, pesticides...).

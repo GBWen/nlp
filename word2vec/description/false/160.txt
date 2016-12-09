@@ -1,0 +1,1 @@
+"Vivino is a tool for wine lovers, whether novice or pro, to track tasted wines and discover new ones with ease. The free app for iOS and Android allows users to take photos of wine labels and, using image recognition technology, matches them against a database of more than 3 million wines. 

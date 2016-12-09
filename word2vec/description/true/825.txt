@@ -1,0 +1,1 @@
+Hello, Chair Inc. was founded in 2006 by Luke Iannini, Mike Jacobs and Kevin Corcoran to explore opportunities in applied machine learning and internet advertising. After receiving funding from Y-Combinator in 2007, we produced Adpinion, one of the first advertising networks to utilize user feedback to drive personalized targeting.

@@ -1,0 +1,1 @@
+"Anemomind is a project supported by EPFL, providing sailors with the advanced artificial intelligence technologies to improve their performance. It is a natural result of its two profound passions known as sailing and coding. The project started as a hobby in 2007 and quickly turned into a dynamic start-up.

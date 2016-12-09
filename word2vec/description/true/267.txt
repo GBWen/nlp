@@ -1,0 +1,1 @@
+Applauze finds tickets from primary sellers, as well as secondary markets like StubHub, and uses data analytics and machine learning to recommend relevant events to users, who can easily purchase tickets via the app and also share their event with friends.

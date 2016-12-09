@@ -1,0 +1,1 @@
+What-You-See-Is-What-You-Get (WYSIWYG) natural language processing tracks part references, claim terms, and other features of the application, automatically validating compliance with requirements as specified in the Manual of Patent Examining Procedure (MPEP) through the specification, claims, and drawings.

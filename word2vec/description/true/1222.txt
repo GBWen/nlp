@@ -1,0 +1,1 @@
+Our technology analyses a given customers order records and defines a desired brand's size in less than a second.

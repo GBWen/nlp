@@ -1,0 +1,1 @@
+A modern approach to tracking,measuring, and analyzing music data.ChartMetric uses algorithms and natural language processing to gather, organize, and derive insights on musics.

@@ -1,0 +1,1 @@
+Traversal Networks has developed heuristics using a corpus of live network data combined with expertise in botnet detection to help filter traffic.  Additionally, Traversal Networks uses IP and DNS reputation across all its deployed devices to detect new threats.  

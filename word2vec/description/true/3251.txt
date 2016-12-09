@@ -1,0 +1,1 @@
+"TextTeaser is an automatic summarization application and API. It allows you to summarize news articles and easily share it to your friends, on your blog, or on various social networks.

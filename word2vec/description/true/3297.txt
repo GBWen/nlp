@@ -1,0 +1,1 @@
+The Lateral Threat Detector appliances utilize reinforcement learning to continually enhance filtering performance on each network segment, and submit prefix-preserving anonymized data to our cloud making it available to be quickly searched in real time.

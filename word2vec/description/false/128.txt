@@ -1,0 +1,1 @@
+The primary design philosophy behind the PrecisionHawk technology is to place as much intelligence into the platform as possible. This allows the system to operate in the most reliable and repeatable fashions. This philosophy provides a platform that is readily operable with only a minimal amount of training.

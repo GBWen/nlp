@@ -1,0 +1,1 @@
+LeadScanr analyzes millions of public social media posts. Our main technical focus is purchase intent detection in social media data. LeadScanrs custom software leverages natural language processing, real-time data processing and machine learning to capture, analyze and display only those leads that contain a purchase intent. 

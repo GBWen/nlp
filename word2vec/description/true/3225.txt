@@ -1,0 +1,1 @@
+A Real Time Machine Learning Predictive Algorithm that adapts within the fraction of a second to a users input. 

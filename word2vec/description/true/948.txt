@@ -1,0 +1,1 @@
+topLog turns System Log data into intelligence. By utilizing state-of-the-art Machine Learning techniques and providing an interactive user interface, topLog gives System Administrators better insight into what is happening to their IT resources. Our unique approach saves time and money, allowing for quick and effective event troubleshooting and failure prevention.

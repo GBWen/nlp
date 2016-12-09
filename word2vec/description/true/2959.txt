@@ -1,0 +1,1 @@
+It supports display, video, mobile, and native with its RTB 2.3 specification.

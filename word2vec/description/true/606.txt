@@ -1,0 +1,1 @@
+Documaster AS was spun off from NorseLAB (www.norselab.com) in January 2014 after a successful two-year project aimed at building a modern minimalistic records management kernel for the needs of the public sector in Norway. Our parent company has been active in the area of records management since 2003 and currently has more than 450 government agencies as customers.

@@ -1,0 +1,1 @@
+- From different sources (unstructured/ structured, streaming/stored)

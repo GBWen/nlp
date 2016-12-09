@@ -1,0 +1,1 @@
+Paul Yost founded YOST Labs in 2012 (dba then as YEI Technology) in historic Portsmouth Ohio. Paul set about solving the difficult technical challenge of combining outputs from multiple inertial sensors (accelerometers, gyroscopes, magnetometers) to determine absolute orientation of an object  a necessary capability for numerous market applications. 

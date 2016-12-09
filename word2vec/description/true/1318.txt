@@ -1,0 +1,1 @@
+We developed a patent pending technology platform, Cluuz that uses Semantic and Machine Learning techniques to process, analyze and interpret aggregated data from multiple sources, in order to extract key sentiments, facts, user interests and intent.

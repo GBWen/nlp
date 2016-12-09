@@ -1,0 +1,1 @@
+WearHealth is the AI-driven platform that learns from Health Experts and data from Wearables to empower personal health assistance. Our mission is to augment mHealth with Machine Learning and Context Awareness to foster the engagement of our clients (re- and health insurances, hospitals and pharmaceutical industry) with their customers beyond the established services.

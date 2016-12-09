@@ -1,0 +1,1 @@
+We analyze the traffic logs and apply machine learning algorithms to track web scraping activity. Then we help you understand your web traffic such as who's using your data and the rate at which they are scraping your site. From there we identify potential partners and offer them an API, while blocking unauthorized bot activities on your website.

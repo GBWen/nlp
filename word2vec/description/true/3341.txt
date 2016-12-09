@@ -1,0 +1,1 @@
+The idea originated from the Founding Team's past experience building the Big Data Strategy Group at SAC Capital, a $10bn multi-strategy fund. After leaving the firm, the team trained their algorithms on +600,000 resumes and developed machine learning functionality that adapts to user preferences."

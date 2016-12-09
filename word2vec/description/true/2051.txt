@@ -1,0 +1,1 @@
+"PromptCloud opeartes on Data as a Service (DaaS) model and deals with large-scale data crawl and extraction, using cutting-edge technologies and cloud computing solutions (Nutch, Hadoop, Lucene, Cassandra, etc).

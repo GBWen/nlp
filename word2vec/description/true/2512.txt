@@ -1,0 +1,1 @@
+"Jidoka Server enables deployment, setup and implementation of robots in one or more nodes, considering a node as a physical computer or virtual machine.

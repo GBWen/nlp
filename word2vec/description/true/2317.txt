@@ -1,0 +1,1 @@
+"Our company produces a proprietary data set of millions of price data points. This data set alongside machine learning is used to provide a platform to help airlines price their airfares. The platform has been said to introduce an algorithmic trading feel to airline pricing.

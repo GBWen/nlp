@@ -1,0 +1,1 @@
+Dark Blue is  one of the leaders on the frontier of deep learning and language: translation, dialogue, summarization, sentiment analysis, semantic parsing, question answering, and mapping language to action. Dark Blue Labs features experts on deep learning for images, video, speech and reinforcement learning tasks

@@ -1,0 +1,1 @@
+"Robotic surgery will soon be common practice. Today, most surgical robots are fully controlled by surgeons, and lack the ability to assist the surgeon with decision making. The missing element for smart robotic surgery is an advanced computing system that collects information during the procedure and can make suggestions accordingly.

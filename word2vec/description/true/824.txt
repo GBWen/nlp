@@ -1,0 +1,1 @@
+Flickbay is a personalized movie engine that uses Artificial Intelligence and Machine Learning to recommend unique content to every user. Our application aggregates content and ratings of films from the world wide web, making it one of the largest database of movie related content in the world.

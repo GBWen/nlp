@@ -1,0 +1,1 @@
+We make the world of sales smarter by analyzing Salesforce CRM data and external data sources fed into SalesChoice's predictive analytic insight engine. We specialize in sales prioritization, sales forecasting, predictive pricing, and propensity to purchase scoring, using machine learning methods. Our market entry is on the SalesForce.com App Exchange.

@@ -1,0 +1,1 @@
+Our affordable and accurate software in the cloud leverages data analysis and machine learning in order to analyze the CT scan and give feedback about the tumor, such as size, type, stage, and mainly whether the tumor is benign or malignant.

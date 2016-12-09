@@ -1,0 +1,1 @@
+Ravelin brings machine learning intelligence to fraud prevention. The more data it handles, the smarter it gets. Create robust rules based on 1000s of real-world fraud signals. Detect fraud while it's happening and move as fast as the fraudsters do.

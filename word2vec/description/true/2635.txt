@@ -1,0 +1,1 @@
+"MarketAPI is a XMPP Agent and Presence communication server system infrastructure for developing, monitoring and running automatic trading systems. 

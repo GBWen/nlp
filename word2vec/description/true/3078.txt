@@ -1,0 +1,1 @@
+"Shrebo is a sharing economy platform to share, rent, and book arbitrary things. It offers general features for sharing apps such as search, book, scheduling, service provisioning, payment, and social interaction; predicts critical situations in the value chain using its real-time dashboard with statistical data and analysis; and customizes events and workflows.

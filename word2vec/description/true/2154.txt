@@ -1,0 +1,1 @@
+Because each image is created using a single 2Dview, content providers will not have to incorporate hundreds or thousands of separate images to create the 3Dsolar effect thus enabling them to re-focus on their core business and develop 3D images more rapidly.

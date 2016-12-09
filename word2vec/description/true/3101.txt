@@ -1,0 +1,1 @@
+Every year mobile phones include new sensors. Situm Technologies, a start-up founded by former robotics researchers, introduces a novel indoor localization technology that is able to efficiently fuse information from any sensor. The result is a robust, flexible and accurate indoor positioning system. More information about how it works is available at their website.

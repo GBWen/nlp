@@ -1,0 +1,1 @@
+Competitors like Qlikview, let you visualise data in many different ways but sales reps still have to interpret what they see, to work out what to do. They use machine learning to automate complex tasks like gap analysis, change-point detection, and churn prediction at a fraction of the cost of an in-house data scientist. 

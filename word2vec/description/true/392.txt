@@ -1,0 +1,1 @@
+Namogoos unique technology offers a client-less, zero-integration and enterprise grade detection and prevention of malware attacks. Based on patented machine learning technology Namogoo detects anomalies for zero-day attacks. Namogoos system is robust, scalable and fault-tolerant to ensure high performance on monitored pages.

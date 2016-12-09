@@ -1,0 +1,1 @@
+More languages with sentiment scoring are coming on stream in the near future, and will include French, German and Portuguese. 

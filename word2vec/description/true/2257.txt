@@ -1,0 +1,1 @@
+"The Flowers project-team, at Inria and Ensta ParisTech, studies mechanisms that can allow robots and humans to acquire autonomously and cumulatively repertoires of novel skills over extended periods of time.

@@ -1,0 +1,1 @@
+"IXI-Play is building a smart, Android-based robot for young children. They can play games with it; theyll show the robot cards and it will mimic emotions on them. It sees, hears, speaks and moves.

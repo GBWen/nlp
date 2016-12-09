@@ -1,0 +1,1 @@
+StockMood.com uses analyze news stories, classify their sentiment, and then measure their potential impact on a stock's price direction.

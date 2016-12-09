@@ -1,0 +1,1 @@
+Once a customer is connected to a trade system, (Ecommerce, POS, etc..)  the engine creates a personalized shopping experience by recommending products or services based on the customer purchasing history and more.

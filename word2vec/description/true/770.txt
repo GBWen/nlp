@@ -1,0 +1,1 @@
+- REST API for an easy integration with third-party applications

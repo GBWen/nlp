@@ -1,0 +1,1 @@
+Fashwell is a Swiss fashion-tech startup that's closing the gap between inspiration and commerce by making every image shoppable. Their computer vision and deep learning algorithm recognizes any fashion item in an image and enables users to purchase their favorite items through a direct link to the product in a partner web-shop.

@@ -1,0 +1,1 @@
+"RightAction operates pureRTB, an online bidding platform that offers advertising solutions. The marketplace employs multiple regression models paired with and against non-parametric real-time machine learning to optimize campaign impact with every impression.

@@ -1,0 +1,1 @@
+BooRah's system uses natural language processing to generate quantitative scores for domain specific attributes from plain English text, automatic summaries from most relevant user sentiments and enables a customizable search based on personal preferences."

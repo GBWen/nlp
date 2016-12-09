@@ -1,0 +1,1 @@
+-	Users can vote on each connection and the app will maintain the path that gets the highest votes. It is a very democratic process. 

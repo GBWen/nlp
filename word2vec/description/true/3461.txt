@@ -1,0 +1,1 @@
+Combining sophisticated support vector machine (SVM) algorithms with highly parallel programming and advanced data science task automation, Yottamines machine learning software rapidly builds highly accurate predictive models from very large data sets without guesswork or computer baby-sitting. 

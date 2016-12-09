@@ -1,0 +1,1 @@
+BriskPoint is an AI technology company providing Aurora big data analytics platform. Aurora uses advanced machine learning and optimization techniques, applicable to large-scale real-time data streams. Its predictive and prescriptive analytics capabilities can be applied in many domains.

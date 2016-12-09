@@ -1,0 +1,1 @@
+ educational social network that can generate real-time learning data

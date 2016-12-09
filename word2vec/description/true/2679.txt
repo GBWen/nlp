@@ -1,0 +1,1 @@
+Rippol uses machine learning and real-time ranking in the form of a system of algorithms they call The Butterfly Effect Network (http://rippol.com/#/aboutp=technology) to determine what individual users might like to watch."

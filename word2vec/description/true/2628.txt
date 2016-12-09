@@ -1,0 +1,1 @@
+""AirVision Situational Awareness"" - real-time visualization of detected objects on the map, 3D point-cloud generation straight from the on-board images. 

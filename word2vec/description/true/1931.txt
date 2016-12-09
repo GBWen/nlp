@@ -1,0 +1,1 @@
+Behind that app is a deep learning algorithm that can identify the most common abnormal heart rhythm, atrial fibrillation. We're collaborating with UCSF Cardiology through the mRhythm Study to validate that algorithm against medical gold standards."

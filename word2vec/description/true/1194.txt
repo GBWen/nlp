@@ -1,0 +1,1 @@
+Knote is a natural language processing platform that offers a variety of features to help you work smart, not hard. We offer automated document redaction, summarization, analysis, and search.

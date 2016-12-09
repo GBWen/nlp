@@ -1,0 +1,1 @@
+Open Source Robotics Foundation, Inc. (OSRF) is an independent non-profit organization founded by members of the global robotics community. The mission of OSRF is to support the development, distribution, and adoption of open source software for use in robotics research, education, and product development.

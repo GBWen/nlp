@@ -1,0 +1,1 @@
+"Favrit is a local bookmarking platform.  Its mobile app lets users save and share their favorite places and discover new ones.  Favrit users categorize their favorite places (e.g. restaurants, stores etc) in lists, share their lists with friends and follow friends to keep informed about their great finds.  Think of it as the Spotify for places. 

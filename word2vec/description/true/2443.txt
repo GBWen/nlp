@@ -1,0 +1,1 @@
+- Institute for Robotics: autonomous navigation of mobile robots and vehicles, management of robots for naval research, cooperate management of multiple robot systems, management and navigation of autonomous flying vehicles, cognitive manipulation of objects, object recognition, cognitive visual systems and interaction between robots and humans

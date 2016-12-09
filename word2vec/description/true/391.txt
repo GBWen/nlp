@@ -1,0 +1,1 @@
+"Many enterprises focus their security efforts on servers, network and infrastructure. Client-Side Injected Malware (CSIM) runs through the users devices or browsers and bypasses any server-side security shield.

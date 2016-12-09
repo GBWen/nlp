@@ -1,0 +1,1 @@
+Smartaxi is a platform for real-time forecast of taxi demand. We use advanced machine learning technologies to tell taxi drivers where to go via mobile app heat map.

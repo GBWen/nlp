@@ -1,0 +1,1 @@
+Bender Robotics is young company focused on development of complex controlled electromechanical systems. Autonomous robot Advee is the example. It's complex design covers mechanical parts, sensors, actuators, control systems on the device level, control systems on the autonomous motion level and human-machine interaction.

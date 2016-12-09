@@ -1,0 +1,1 @@
+Clevapi provides automatic image recognition solutions. The SaaS technology combines real-time visual recognition with artificial intelligence to provide information about the objects and concepts presented on the visual content. That brings opportunities to use recognized objects for in-image advertising, social media analytics and to power visual search.

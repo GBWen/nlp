@@ -1,0 +1,1 @@
+"Developed/validated (93% accurate) software that can diagnose sleep apnea using only snore recordings from a smartphone. Our product will be 90% less expensive than the competition (sleep lab study). 40 million undiagnosed sleep apnea patients and over $5 billion spent each year on sleep apnea tests in US.

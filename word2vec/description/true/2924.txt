@@ -1,0 +1,1 @@
+This patent-pending sensor fusion technology combines computer vision and inertial data to give its users apps accurate 6DOF device motion and a 3D point cloud of the environment.

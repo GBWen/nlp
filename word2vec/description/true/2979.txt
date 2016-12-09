@@ -1,0 +1,1 @@
+More in-depth information can be found in RoboEarth  A World Wide Web for Robots (PDF) published in the IEEE Robotics and Automation Magazine and in Rapyuta: The RoboEarth Cloud Engine (PDF) published in the Proceedings of ICRA 2013. You may also want to browse the RoboEarth Blog or subscribe to their newsletter using the link at the bottom of this page.

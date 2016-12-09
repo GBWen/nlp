@@ -1,0 +1,1 @@
+The Gastrograph App for Android and iOS collects a wealth of information including demographic, situational, environmental, and reviewer data. It then sends this information to Their secure, cloud-based Producer Panel after every review. You will be notified of variations between batches, possible contaminations, and/or flaws that Their state-of-the-art data algorithms detect.

@@ -1,0 +1,1 @@
+Safety solutions today require either reaching a panic button in the middle of an emergency, or waiting for a safety time to run down. We solve the problem of achieving passive and immediate emergency response by using GPS and accelerometer data to identify emergency triggers.

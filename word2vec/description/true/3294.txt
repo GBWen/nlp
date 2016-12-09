@@ -1,0 +1,1 @@
+"Traversal Networks develops a new form of Network Intrusion Detection System designed to catch unknown threats. The Lateral Threat Detector appliances are easily installed on your corporate network. These analyst-assisted sensors learn traffic patterns on each of your network segments and detect lateral exploitation, backdoors, bots, malware, and network reconnaissance.

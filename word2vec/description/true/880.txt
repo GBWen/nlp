@@ -1,0 +1,1 @@
+Edinburgh Robotics Limited was founded in 2005 by Joe Halliwell and Nils Roeder, two former researchers who maintain their close relationship with the University of Edinburgh. Edinburgh Robotics built their development platform to integrate experiences from mobile robotics to help accelerating intelligent system and robotic application development.

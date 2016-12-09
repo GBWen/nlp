@@ -1,0 +1,1 @@
+However, They could not use any of the traditional AI approaches which use inductive methods of coming to a conclusion, since it would take an incredible amount of space & processing power to make even slightly complex decisions.

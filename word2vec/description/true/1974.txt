@@ -1,0 +1,1 @@
+"Clickspot is a penny auction website that enables all participants to pay a non-refundable fee to place each small incremental bid. It was distinguished by having three different types of purchases and does not use robots in the structure of the site schedule.

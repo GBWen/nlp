@@ -1,0 +1,1 @@
+Keepr tracks down breaking news stories in social media by applying natural language processing and social network analysis to filter for credible updates and sources.

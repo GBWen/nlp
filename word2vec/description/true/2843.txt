@@ -1,0 +1,1 @@
+It tracks every interactions that occur on the page to identify time intervals where your audience are most active and determine the type of content that will best engage these audience.

@@ -1,0 +1,1 @@
+We believe that accurate size prediction should not be based on what the customers perceived size is but based on actual customer purchases and the associated returns history. 

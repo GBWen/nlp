@@ -1,0 +1,1 @@
+Our unique vision-specific processor is faster and more power efficient than GPU and DSP processing for modern computer vision problems. Coupled with a full stack of low power and real time deep learning computer vision software, our system gives small devices like drones, robots, and IOT cameras the ability to have embedded computer vision.

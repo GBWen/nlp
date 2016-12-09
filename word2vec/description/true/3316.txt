@@ -1,0 +1,1 @@
+Unlike most startups in the Machine Learning/Natural Language space we are not focused on tickets or knowledgebases but rather the conversations themselves. We believe in using real human interactions to drive more meaningful chat bot interactions.

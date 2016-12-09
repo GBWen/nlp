@@ -1,0 +1,1 @@
+The extension detects the user's current internet usage intent in realtime, e.g. making a product purchase or travel planning. The platform automatically presents related information such as cheaper offers, links to other information sources such as videos and reviews for the user. 

@@ -1,0 +1,1 @@
+The Service offers a rules engine allowing the user to build automated trading strategies. The trading system allows registered user's to define risk tolerance and/or personal preferences. Registered users can use smart auto-trading to simulate and test their strategy in real-time.

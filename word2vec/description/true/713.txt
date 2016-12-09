@@ -1,0 +1,1 @@
+MetricStory is the first platform to deliver enterprise level insights without an engineer or an analyst. We automate the entire process of setting up analytics by applying machine learning algorithms to automatically turn web analytics into insights. This eliminates the need for an engineer, analyst, and/or platform expert. All performed at a scale & speed unmatched by humans.

@@ -1,0 +1,1 @@
+Traditional Social Analytics/Listening products focus on providing their customers statistics, sentiment and some more linguistic data about their brand and campaign on social media. Frrole turns the logic on its head by using wealth of social data as a reverse proxy to tell its customers what is happening with their consumers, irrespective of where they are.

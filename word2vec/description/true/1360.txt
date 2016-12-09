@@ -1,0 +1,1 @@
+- New scale-out processing & storage infrastructures

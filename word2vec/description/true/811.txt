@@ -1,0 +1,1 @@
+Pierce uses the information gathered from thousands of client networks and industry data sources to detect botnets, attackers, compromised machines, and corporate IP reputation.  The Pierce dashboard and reports provide you with up-to-the minute security intelligence on your risk chain."

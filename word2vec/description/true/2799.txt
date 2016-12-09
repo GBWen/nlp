@@ -1,0 +1,1 @@
+It builds model of student's learning curve and computes optimum intervals between repetitions. It is built around the concept that the best way to master knowledge is to space repetitions up over increasing period of time. Based on the research in the area of machine learning and cognitive science omnimemo estimates and tries to adopt to student's learning curve."

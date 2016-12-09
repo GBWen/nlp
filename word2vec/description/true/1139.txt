@@ -1,0 +1,1 @@
+A great search experience is central to providing consumers with an excellent site experience. Signal is a search plugin that integrates with platforms like SOLR to automatically improve relevance for subjective, thematic, and semantic search queries. Signal goes light years beyond keyword matching by understanding the intent of a search query and providing optimal results.

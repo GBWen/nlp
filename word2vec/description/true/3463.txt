@@ -1,0 +1,1 @@
+Yottamine runs on the ASW pubic cloud or on customer premises on a Eucalyptus private cloud and is operated through either a Java API or interactive R interface, making it suitable for a wide range of applications in Marketing, Risk, Fraud, Manufacturing, Product Development, and other areas."

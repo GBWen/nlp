@@ -1,0 +1,1 @@
+"Neurosteer is a disruptive neurotechnology company, focused on monitoring and interpreting clinical grade EEG data that is collected via a sleek, 3 electrode headband. Data is processed in real-time on the cloud, analyzed with proprietary signal processing and machine learning algorithms, and incorporated into medical, wellness and gaming applications.

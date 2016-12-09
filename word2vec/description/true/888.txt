@@ -1,0 +1,1 @@
+Our proprietary assessment platform has been developed in collaboration with the Kellogg School of Management at Northwestern University by applying natural language processing, voice mapping, gesture and facial recognition, predictive analytics, statistical norms, and machine learning to evaluate individual communications effectiveness.

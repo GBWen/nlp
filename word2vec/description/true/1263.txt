@@ -1,0 +1,1 @@
+"SOLUTIONS FControl is the final for the detection of fraud in online and telephone sales. A sophisticated neural network technology and artificial intelligence can detect that stores real-time fraud and prevent losses.

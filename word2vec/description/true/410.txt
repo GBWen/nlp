@@ -1,0 +1,1 @@
+Affinio is using both random forest and deep learning models in the development of their social affinity engine."

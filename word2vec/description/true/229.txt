@@ -1,0 +1,1 @@
+Building.AI is a sophisticated machine learning analytics SAAS platform and embedded wireless sensor that enables real-time identification, disaggregation, and analysis of the loads in buildings, providing unprecedented insights about behavior and usage."

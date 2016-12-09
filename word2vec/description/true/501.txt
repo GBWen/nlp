@@ -1,0 +1,1 @@
+Using computer vision and proprietary algorithms, Ari (are-e) turns any mobile/wearable device with a single camera into an accurate gesture interface.

@@ -1,0 +1,1 @@
+"Gum provides secure, perfect-fit CV APIs for unstructured scene recognition & image data-mining goals.

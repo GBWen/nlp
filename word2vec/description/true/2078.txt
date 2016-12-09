@@ -1,0 +1,1 @@
+"DiaScan is a software company in the medical industry that analyzes CT scans for lung cancer.

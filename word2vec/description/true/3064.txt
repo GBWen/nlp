@@ -1,0 +1,1 @@
+Websites use Robots.txt to instruct crawlers on how to index pages. Robots.txt regulates web robots behavior.

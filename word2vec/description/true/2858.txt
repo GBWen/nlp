@@ -1,0 +1,1 @@
+Petiole helps to increase yield using plants' precision data. Petiole is an agtech project to implement computer vision algorithms to everyday business of farmers, agronomists and agriscientists. Its first product, Petiole app for Android, is a mobile application that lets you measure leaf area and chlorophyll content using your smartphone.

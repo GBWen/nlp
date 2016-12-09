@@ -1,0 +1,1 @@
+Qualitative analysis of your customers feedback based on the Natural Language Processing of their opinions.

@@ -1,0 +1,1 @@
+Spotinst chooses the most cost-effective compute resources based on your application workload, allowing you to focus on your business growth rather than chasing ghosts."

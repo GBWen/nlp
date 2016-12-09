@@ -1,0 +1,1 @@
+"CoolFarm is a flexible control system, easily adapted to all sensors and actuators available in the market and to all indoor typologies (horizontal/vertical greenhouses and warehouses).

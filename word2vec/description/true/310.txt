@@ -1,0 +1,1 @@
+1) We ingest, cleanse and convert traditional data sources into the Rubikloud big data compliant format. 

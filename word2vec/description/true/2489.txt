@@ -1,0 +1,1 @@
+Iskra is a Python, Plone and Pyramid technology agency specialized in information knowledge management. They are open source. They are specialists in web apps, mobile apps, Anngular.js, React. They are the developers of Intranetum, the knowledge management platform that uses machine learning and big data techniques.

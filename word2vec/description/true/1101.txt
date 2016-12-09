@@ -1,0 +1,1 @@
+Legalist uses machine learning on millions of court records to source, vet, and invest in commercial lawsuits.

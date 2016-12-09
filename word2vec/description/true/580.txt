@@ -1,0 +1,1 @@
+The technology behind Splash combines computer vision driven panoramic stitching with patentable algorithms for filming 360 videos with a mobile camera. It also includes state of the art virtual reality user interfaces for creation and social features. 

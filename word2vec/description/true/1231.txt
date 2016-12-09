@@ -1,0 +1,1 @@
+Reziden is the application built for Residential Estate Services Management designed to unify Home Owners, Residents Estate Management and Property Developers. With the ""Login Once, Access Infinite Residential Estates"" feature, users can managed multiple properties at one-go. It is available in multiple Asian languages.

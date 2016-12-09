@@ -1,0 +1,1 @@
+The first version of our technology won the MIREX 2011 competition and has never been beaten since. Years of research in Deep Learning and Machine listening algorithms are packed in our easy to use API. Our mission is to get the right songs, to the right user, at the right time.

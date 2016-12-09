@@ -1,0 +1,1 @@
+ Private instance in cloud, co-location or data center is possible supported by service plan 

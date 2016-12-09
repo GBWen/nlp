@@ -1,0 +1,1 @@
+It collects and analyzes data from around the web, discovers open positions and potential candidates, and engages with both people and companies in order to find potential matches - all without any human intervention.

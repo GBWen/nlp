@@ -1,0 +1,1 @@
+Each article is individually ingested, and its sentiment assessed by natural language processing models. While the models aren't perfect, users can correct the sentiment rating produced by the system.  This crowd-sourcing technology allows the AI engine to constantly improve its accuracy.

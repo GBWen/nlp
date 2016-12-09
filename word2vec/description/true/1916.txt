@@ -1,0 +1,1 @@
+Our solution - bridgeOS - allows for fast development and easy management of robot apps on service robots.

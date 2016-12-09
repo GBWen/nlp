@@ -1,0 +1,1 @@
+"Roamz is a location-based application that helps you find out what is happening at places around you. With so much noise on the social web Roamz guides you to the serendipitous moments that the locals find out about. Roamz pulls in social data from multiple sources to give users a unique view of social activity occurring at places nearby.

@@ -1,0 +1,1 @@
+By the end of 2015, Musimap will have incorporated over 3 billion data points into its algorithm, creating a synaptic-like network of weighted variables focused on personalization. While these 3 billion synapses are just a fraction of the synaptic connections present in the human brain, they are the keystone of the emotion-based discovery options that Musimap offers.

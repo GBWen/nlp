@@ -1,0 +1,1 @@
+First time EasySize users only need to input the size and brand of their best-fitted piece of clothing item. For returning users, EasySize can recommend the size by analysing the users historical purchase orders. The size conversion is all done behind the scene, providing a pleasant user experience of the online customer."

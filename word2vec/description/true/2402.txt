@@ -1,0 +1,1 @@
+The HydroKite has on-board guidance and monitoring systems.  This allows the HydroKite to optimize its operations for maximum power production.  However, whenever the system detects other objects in the river, such as logs floating below the surface or recreational boating or fish , the on-board system steers the unit away from any potential collision.  

@@ -1,0 +1,1 @@
+Robox is a self paced STEM Learning tool based on Robotics to motivate, inspire & engage students with interesting projects & activities. Students build various automated working mechanisms using Building blocks, program them using Roboguru software, Robobrain and accomplish the required task using his/her creation.

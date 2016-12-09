@@ -1,0 +1,1 @@
+Radiologists cannot accurately diagnose cancer when looking at a CT scan, but our software dramatically improves a radiologists productivity and experience by analyzing the scan for them.

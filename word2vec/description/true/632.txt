@@ -1,0 +1,1 @@
+Stream came out of BETA in February. We're now approaching 100 companies that have integrated Stream and are relying on our API. Several larger companies are currently integrating. Our angel investors include the founders of Crashlytics, the head of developer experience at Twitter, the founders of KeenIO, the CTO of HubSpot and the CTO of Thomson Reuters."

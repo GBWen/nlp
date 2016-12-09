@@ -1,0 +1,1 @@
+iDoctor is an Interactive Web Portal for self-diagnosis that resembles a real-life patient-doctor encounter, enabling natural-language communication for health information retrieval leading to main diagnosis. The focus is on simplicity, powerful reasoning engine, natural language processing in multiple languages and broad domain coverage.

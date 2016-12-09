@@ -1,0 +1,1 @@
+Like many advanced machine learning technologies, Osaro's software automatically extracts information from high-dimensional, time-varying data. Osaro goes beyond merely classifying data.  The technology interacts with the environment to learn, discover, and achieve a specific goal.

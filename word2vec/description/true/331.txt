@@ -1,0 +1,1 @@
+Our platform leverages proprietary computer vision technology to make sense of both archival and live video streams. First, Placemeter detects hidden patterns in pedestrian and vehicular traffic. Then, we predict how those patterns will evolve over time. 

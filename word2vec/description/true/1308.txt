@@ -1,0 +1,1 @@
+"Tyxo, a platform that aggregates different fashion commerce sites in a single place. It helps you discover fashion products youll love. We do this by crawling the web for the hottest products, and recommending the ones that match our users personal style.

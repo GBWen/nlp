@@ -1,0 +1,1 @@
+We apply a machine learning technology in our music social platform using semi-supervised learning self-in-process music identity integrated with Multi-label Music classification database. 

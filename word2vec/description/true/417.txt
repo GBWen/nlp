@@ -1,0 +1,1 @@
+"Upsolver is a mobile DSP for performance advertisers based on deep learning. Our advanced technology is tailored to solve programmatic and RTB challenges in mobile advertising, predicting the value of every ad impression in real time, based on every piece of available data.

@@ -1,0 +1,1 @@
+"We help software developers find their professional match through analytics. We use machine learning and data mining to build, analyze and validate developer profiles. We get these profiles through data streams such as GitHub, StackOverflow and LinkedIn. We then match these profiles to companies looking for engineers and developers through machine learning algorithms 

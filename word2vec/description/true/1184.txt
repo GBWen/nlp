@@ -1,0 +1,1 @@
+Seentient uses deep learning to semantically understand clothing images.

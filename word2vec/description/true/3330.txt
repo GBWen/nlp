@@ -1,0 +1,1 @@
+We have developed traction with WeWork and La Colombe Roasters using our current office cafe application that attaches to our platform the way any other task-specific foodservice application would. It tracks coffee/snack usage and inventory then reports to our main platform which decides when to reorder."

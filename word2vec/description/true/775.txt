@@ -1,0 +1,1 @@
+Coinalytics has designed its data infrastructure to scale-out and deal with the scope of any decentralized network, providing business and risk intelligence on transactions in real-time, even before getting confirmed by the Bitcoin network."

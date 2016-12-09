@@ -1,0 +1,1 @@
+Ritc provides a rule architecture, in which rules are grouped within apps, and rules and apps can be related in hierarchies.

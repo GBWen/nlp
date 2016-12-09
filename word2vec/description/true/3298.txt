@@ -1,0 +1,1 @@
+The Traversal Cloud Analysis platform was designed to enable its security analysts to quickly pivot on anomalous traffic seen across its network and classify it as malicious or benign."

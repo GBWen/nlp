@@ -1,0 +1,1 @@
+Groundtruth.io creates new measures of the economy and risk in emerging markets using machine learning tools built on proprietary "data pipelines" that provide high-frequency, ground-level data.

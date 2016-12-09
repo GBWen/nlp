@@ -1,0 +1,1 @@
+The engine is built on a framework for cloud- and microcontroller-based services and applications that enable access to any defined REST API, providing an endpoint through its own REST API. It features a Visual Rule Editor that runs in the browser, accessible from laptop, mobile, and tablet.

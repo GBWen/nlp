@@ -1,0 +1,1 @@
+Users are able to take pictures of unsolvable questions on the test paper,  upload them to the server, and later on view the procedures and answers to the questions sent back by the system. 

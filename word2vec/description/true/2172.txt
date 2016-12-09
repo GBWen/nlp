@@ -1,0 +1,1 @@
+"Ersatz is a web-based machine learning platform designed to assist with data wrangling, machine learning, and model deployment. It automates and simplifies many deep learning tasks, hiding the complex machinations of the neural network behind an easy-to-use web interface and API.

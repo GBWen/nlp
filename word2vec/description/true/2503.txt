@@ -1,0 +1,1 @@
+WisdomTap listens to millions of tweets and analyzes  them using uses sophisticated Natural Language Processing algorithms. WisdomTap is thus able to identify only those customers who've expressed explicit intent to buy, and what they are interested in buying.

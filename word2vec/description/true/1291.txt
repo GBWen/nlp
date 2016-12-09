@@ -1,0 +1,1 @@
+* Sentiment Analysis - Automated evaluation of tone of conversations

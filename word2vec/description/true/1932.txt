@@ -1,0 +1,1 @@
+Caugnate leverages computer vision and augmented reality technologies to create new tools for remote collaboration, allowing collaborators to more directly experience one another's spatial environment. This is a critical advantage in collaborative tasks that involve the physical world, such as equipment maintenance and repair.

@@ -1,0 +1,1 @@
+Fluxis method of sentiment scoring uses cognitive philology as the artificial intelligence approach to determine meaning within written text, and is > 80% accurate as an average."

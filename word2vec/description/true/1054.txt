@@ -1,0 +1,1 @@
+Mood measures how a stocks price responds to news. When a stock is in a good Mood that means the stock price responds very favorably to good news, and has a tendency to shrug off the bad news. The opposite is true for bad Mood. The more this happens the stronger the mood in that direction gets.

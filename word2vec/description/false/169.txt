@@ -1,0 +1,1 @@
+Using data science and machine learning, we cleanse, structure, and refine the data, and then make it available through Indix Data-as-a-Service. By connecting to the Indix Product API and Product Feeds, businesses and developers harness the power of product information to make better decisions, drive innovation, and create new models of commerce. 

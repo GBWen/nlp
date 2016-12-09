@@ -1,0 +1,1 @@
+Unlike the approach of most UAV companies on the market, our system is not built for an expert UAV pilot. Loaded with artificial intelligence, our UAV is built for a non-technical operator and can be learned to operate within a few hours.

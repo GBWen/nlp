@@ -1,0 +1,1 @@
+"LilBot is an open-source, balancing robotics platform suitable for academics, hobbyists, and hackers for exploration of balancing robots and control systems. It is programmed just like an Arduino Uno and takes standard Arduino shields.

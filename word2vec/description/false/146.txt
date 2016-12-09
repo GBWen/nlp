@@ -1,0 +1,1 @@
+Mioji uses big data and artificial intelligence to provide travel itinerary with only one click. Mioji collects millions of travel related websites in dozens of languages and build a structured database with billions of information node through semantic understanding. Mioji now provides products in flights, hotels, car rentals, and tickets for concerts and sports games."

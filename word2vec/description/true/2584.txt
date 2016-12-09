@@ -1,0 +1,1 @@
+The firm holds technologies enabling calculation / compression and optimization of network even under a frugal computing environment. Making deep learning environment compact enough to work in a coin-sized CPU setting the firm aims to apply it in the IoT (Internet of Things) and robotics fields."

@@ -1,0 +1,1 @@
+More than 500,000 apps are still building and maintaining their own feed technology. All these companies go through the same struggle and reinvent the same technology. Stream enables developers to build feeds in days instead of months. Feeds are intelligently aggregated and re-ranked based on relevancy. 

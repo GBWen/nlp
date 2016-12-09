@@ -1,0 +1,1 @@
+"Data is full of important insights that are never discovered because they are too difficult and expensive to find. Except for the most routine cases, hunting for these insights requires grappling with complex, difficult-to-learn interfaces or tedious programming. Questions about data that take moments to formulate can take hours or much longer to answer.

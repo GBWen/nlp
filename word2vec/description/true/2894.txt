@@ -1,0 +1,1 @@
+"ProLeads is a big data platform for lead qualification in enterprise sales. The platform analyzes people based on their emails and qualifies them using machine learning algorithms around public and private information about companies and people. It automates the research and qualification phase of prospecting.

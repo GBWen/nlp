@@ -1,0 +1,1 @@
+Apart from Social Media Analytics platform, Beevolve also runs a distributed and scalable crawler web service that launches robots in the cloud to crawl and extract information from websites. Clients have used Beevolve's Crawler Web Service to crawl millions of web pages."

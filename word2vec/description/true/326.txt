@@ -1,0 +1,1 @@
+"Amplero is a customer lifetime value management platform that enables marketers to achieve whats not humanly possible by leveraging machine learning and multi-armed bandit experimentation to automatically optimize every customer interaction and maximize customer lifetime value and loyalty.  

@@ -1,0 +1,1 @@
+The natural language processing associated with Fluxifis platform delivers language detection for up to 70 languages and dialects, and accurate sentiment over 6 languages, including English, Arabic, Turkish, Russian, Spanish and Chinese, on the fly. 

@@ -1,0 +1,1 @@
+- Recognition of human emotions and empathy by biological information. For example, voice, face expression, eye moving, heart rate, and brain wave.

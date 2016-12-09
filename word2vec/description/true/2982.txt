@@ -1,0 +1,1 @@
+RoboGols table provides continuous power supply for robots, ensuring autonomy of 24 hours a day. Its table is composed of conductive metal plates, positioned to stay in touch with positive and negative poles at the bottom of the robots.

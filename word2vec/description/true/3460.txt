@@ -1,0 +1,1 @@
+"Benchmarks show that Yottamine is the fastest, most scalable Big Data predictive modeling solution available today, beating traditional data mining software, open source libraries, and new solutions, too. 

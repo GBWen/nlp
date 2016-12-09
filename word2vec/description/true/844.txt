@@ -1,0 +1,1 @@
+"TeamPatent provides a browser-based collaborative editor for preparing and examining patent applications.

@@ -1,0 +1,1 @@
+Qemotion has also developed a search emotional engine with machine learning process able to analyse millions of words per day in several idiomas.

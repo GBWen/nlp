@@ -1,0 +1,1 @@
+Robo Brain is a large-scale computational system that learns from publicly available Internet resources, computer simulations, and real-life robot trials. It accumulates everything robotics into a comprehensive and interconnected knowledge base. Applications include prototyping for robotics research, household robots, and self-driving cars.

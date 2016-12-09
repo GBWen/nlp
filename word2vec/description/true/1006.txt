@@ -1,0 +1,1 @@
+Ciafo's second product Wayr is a mobile app for Nokia devices. It is a simple utilitarian app that makes it makes it possible to share and track location in a device-agnostic manner. 

@@ -1,0 +1,1 @@
+In addition to WebGL delivery to browsers and mobile devices, we have built a VR app that currently runs on Oculus platforms and on Google Cardboard and other VR platforms as they emerge. This also makes Matterport the only mass-scale capture system for VR content today - making Matterport VR Showcase the first killer app for VR.

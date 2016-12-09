@@ -1,0 +1,1 @@
+Jussle, Lextines first application of this proprietary technology, is a web-based middleware between e-calendar and email that uses machine learning and natural language processing to read free form email text (with or without attachments) to allow accurate automatic scheduling between any email and any calendar system."

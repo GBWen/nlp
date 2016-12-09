@@ -1,0 +1,1 @@
+The Platform utilizes machine learning algorithms to better understand a buildings consumption patterns over time, and increasingly automates ways in which to find operational improvements. The Enertiv Platform continuously analyzes energy data, alerting users of equipment anomalies, while providing insights and recommendations for savings. 

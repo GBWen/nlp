@@ -1,0 +1,1 @@
+Unlike other computer vision APIs, Seentient fashion-focused AI can describe the style and appearance of clothing with a human level of detail."

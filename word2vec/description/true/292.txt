@@ -1,0 +1,1 @@
+Mapillary provides apps for iOS, Android and Windows Phone, together with tools for using action cameras like GoPro and Garmin Virb. The website http://www.mapillary.com/ shows collected public street view images with a viewed that anyone can embed. Mapillary also provides a set of APIs so that others can build solutions using the data extracted and the photos. 

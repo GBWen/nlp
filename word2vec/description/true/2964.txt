@@ -1,0 +1,1 @@
+EVE is a flexible platform to cover different aspects of risk management for any kind of transaction evaluation. It applies selected machine learning algorithms to evaluate different input streams for a real-time risk assessment: EVE can be trained with historical data but will improve automatically by evaluating and adapting to new fraud patterns."

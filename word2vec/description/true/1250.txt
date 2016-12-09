@@ -1,0 +1,1 @@
+Sentiment360, Inc. provides online monitoring and analytics for a wide variety of clients using proprietary semantic A.I. tools developed at Georgia Tech.  The tool understands natural language and provides accurate results, without the need for cumbersome keyword searches.  Clients can drill down to pertinent conversations with minimum effort.

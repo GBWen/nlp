@@ -1,0 +1,1 @@
+TypeScore solves this problem by using Natural Language Processing analysis on language data provided by the borrower as part of the application process to assess credit risk.

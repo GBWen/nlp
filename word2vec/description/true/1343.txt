@@ -1,0 +1,1 @@
+While it is Gatfol's big vision to eventually enable humans to converse with data, a more immediate goal encompasses data search, because search is effectively talking to information. Current efforts are concentrated on applying Gatfol's technology to improve search using semantic intelligence (meaning in data), both on the web and in proprietary databases."

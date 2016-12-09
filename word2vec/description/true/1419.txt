@@ -1,0 +1,1 @@
+The current main product (called DPI-8) is a combination of tablet (NVIDIA SHIELD 8-inch), 3D camera (Primesense Carmine) and software (DotProduct Phi.3D) that together is a complete standalone 3D imager, able to capture 3D models of scenes and objects on the spot and in high detail.

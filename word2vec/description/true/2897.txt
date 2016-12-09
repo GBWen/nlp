@@ -1,0 +1,1 @@
+PSC provides cyber security solutions focused on software security. The company is launching its new software security platform, KASAN (ky-sahn) which identifies software security vulnerabilities using big data and machine learning technologies enabling companies to reach unprecedented coverage for software security and economies of scale.

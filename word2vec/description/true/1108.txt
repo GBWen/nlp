@@ -1,0 +1,1 @@
+Vidcode teaches JavaScript through lessons built around creative video projects. Learn about if-else statements while making videos about robots shooting lasers, variables through making your own old-movie intro, and objects while manipulating pixels! The possibilities are endless.

@@ -1,0 +1,1 @@
+The platform is composed of a dashboard that provides visual information about the execution of each robot, and a server that coordinates actions related to the deployment of the robots.

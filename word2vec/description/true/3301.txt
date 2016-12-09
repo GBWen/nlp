@@ -1,0 +1,1 @@
+Our data mining and machine learning platform captures real-time information from the unstructured text and murky data of technology news, commentary, and social media. Statistical natural language processing lets us recognize, validate, and disambiguate the most important topics to deliver specific and actionable signals to our customers.

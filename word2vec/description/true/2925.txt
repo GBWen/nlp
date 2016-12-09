@@ -1,0 +1,1 @@
+It runs on 2011, A5-based, and latest devices in real-time, without any additional hardware or markers. Its results are accurate over both short and long distances and come with absolute scale in meters."

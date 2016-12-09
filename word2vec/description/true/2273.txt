@@ -1,0 +1,1 @@
+Foxing brings data in from over 30 different activity trackers; then, using machine learning and statistical analysis, Foxing helps users gradually tweak their lives to meet their goals.

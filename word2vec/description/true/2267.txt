@@ -1,0 +1,1 @@
+Partnered with Gnip (now Twitter) for firehose access, Fluxi has unique algorithms for scoring sentiment, the computer generated summary of opinion residing within the mass of social media broadcasts.

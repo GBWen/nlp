@@ -1,0 +1,1 @@
+5. Able to re-compress already compressed material! (Since it is working on a new and different approach, not like most other compression technologies on the market)

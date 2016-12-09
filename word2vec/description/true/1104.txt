@@ -1,0 +1,1 @@
+NeoWize utilizes neural networks and adaptive input to create more data and better data, thus increasing our predictive power with small data-sets."

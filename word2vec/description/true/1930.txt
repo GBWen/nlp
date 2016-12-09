@@ -1,0 +1,1 @@
+We're building an Apple Watch app, Cardiogram, that helps you understand what your heart rate data means. The average Cardiogram user opens the app about five times per day.

@@ -1,0 +1,1 @@
+Easy to use, ChurnSpotter only requires your analytics / payment API keys to start working."

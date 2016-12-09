@@ -1,0 +1,1 @@
+Feedzai can detect fraud in any commerce transaction, by analyzing historical and current data, whether the credit card is present or not, in real-time. The platform can detect fraud by as much as 10 days earlier than other solutions and expose more fraud cases (up to 60% more), all with lower false alarms.

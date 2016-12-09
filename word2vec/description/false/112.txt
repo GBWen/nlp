@@ -1,0 +1,1 @@
+"Cyphort has developed Next Generation Distributed Software Platform to provide the broadest enterprise visibility and accurate detection of advanced threats & evasion techniques, and zero-day attacks by utilizing behavioral analytics, machine learning, and Long-Data Security-Analytics.

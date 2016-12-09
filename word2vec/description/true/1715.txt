@@ -1,0 +1,1 @@
+HoloLamp is a desktop Spatial Augmented Reality projection system combining a pico projector and cameras, when attached to a computer and using a 3D environment created in Unity the user can experience a hands and glasses free spatial augmented reality experience.  It uses computer vision and machine learning to optimise the trompe l'oeil effect.

@@ -1,0 +1,1 @@
+gazeMetrix empowers brands with insight into when and where their brand was photographed across social media in real-time. Using proprietary computer vision and machine learning algorithms, gazeMetrix accurately analyzes user-created photos on Instagram and identifies when a brand is featured.

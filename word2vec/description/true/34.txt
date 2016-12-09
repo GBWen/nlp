@@ -1,0 +1,1 @@
+Nexthinks modular architecture supports customers with 250,000 end-user (worker) endpoints. Learn how to get on top of the big data challenge posed by todays end-user (worker) computing infrastructure."

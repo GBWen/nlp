@@ -1,0 +1,1 @@
+Unique technology alliance that has developed a machine learning algorithm based on structural genomics leveraging crystallography and our proprietary crystal structures library, to match genomics of cancer patients with available targeted oncology drugs.

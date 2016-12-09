@@ -1,0 +1,1 @@
+bridgeOS makes development of robot apps an easy task for non-experts in robotics, allowing the user to easily deploy, start and stop apps on their robots and enables robot apps to run seamlessly on any robot ""powered by bridgeOS""."

@@ -1,0 +1,1 @@
+Computer vision startup with a cloud based API - we're ""giving a pair of eyes to mobile phones so they can understand the visual world"". Based on 6 years of AI consultancy we're building our AI platform to enable developers to easily add computer vision to mobile (and server) applications."

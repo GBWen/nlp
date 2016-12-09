@@ -1,0 +1,1 @@
+LocusLabs is building a centimeter-accurate model of the indoor world to power applications across mobile, IoT, robotics and augmented reality.

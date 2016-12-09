@@ -1,0 +1,1 @@
+- Computer vision - real-time object detection and tracking, various optical and sonar image streams (LIDAR, TOF, video), sensor data fusion (overlapping sensors), both target and sensor can be moving 

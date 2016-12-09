@@ -1,0 +1,1 @@
+Its flagship product is a best-cost routing engine that gives clients the ability to collect premiums or subscriptions via the most efficient bank- or non-bank channels. Routing is done through a proprietary machine learning module that predicts the optimal outcome and implements the change in a series of action triggers."

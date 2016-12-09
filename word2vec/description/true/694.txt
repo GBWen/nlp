@@ -1,0 +1,1 @@
+"PINE64 set out to create a simple single board computer that is smart and affordable, by creating the worlds first affordable 64-bit single board supercomputer.  PINE64 comes from the combination of two constant variables  Pi and Eulers Number e and 64 comes from our 64-Bit computing power.   

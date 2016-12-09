@@ -1,0 +1,1 @@
+ACS CompIQ can accept import data in almost any format. Likewise, we can accommodate almost any format needed for export. Files are usually fixed-length ASCII data."

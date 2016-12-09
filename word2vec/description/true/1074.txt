@@ -1,0 +1,1 @@
+Qemotion has created the emotional index, the first emotional KPI based on semantic, much more precised than simple sentiment analysis, The emotional index is calculated based on the latest semantic surveys available in numerous languages in the world.

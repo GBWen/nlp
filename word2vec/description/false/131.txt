@@ -1,0 +1,1 @@
+The PrecisionHawk data platform provides autonomous transfer from the UAV into the cloud where it can be processed and analyzed on the Data Mapper software and accessed on a desktop or mobile device. 

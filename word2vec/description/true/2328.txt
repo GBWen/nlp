@@ -1,0 +1,1 @@
+"Gleechi have developed the first commercial software solution to create hand motion that can interact in real-time. The software enables free and natural hand interaction games and virtual reality. The core competences and technologies are centered around advanced computer vision and machine learning algorithms. 

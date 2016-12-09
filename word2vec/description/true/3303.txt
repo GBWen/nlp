@@ -1,0 +1,1 @@
+Tilda is a social media monitoring platform which will incorporate a number of machine learning tools, allowing researchers and other users to cluster, and classify their data, and carry out predictive nalytics, without haveing to download files and use other tools.

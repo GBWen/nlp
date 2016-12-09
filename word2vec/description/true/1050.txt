@@ -1,0 +1,1 @@
+"Quant the News uses  Artificial Intelligence to convert news into numbers, in an attempt to quantify the impact of news.

@@ -1,0 +1,1 @@
+Travelers progressively build a guest profile used for both modules through multiple sources: their social accounts, their history and answering questions both dynamic (on a particular trip) or static (on their permanent preferences). 

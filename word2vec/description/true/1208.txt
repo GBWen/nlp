@@ -1,0 +1,1 @@
+The implemented interface allows online shoppers to focus on shopping without being delayed by approximating their sizes or distracted by questions and measurements.The only thing a client needs to add is a brand size, which fits him/her best, and our brand conversion tool will convert it to the desired brand size. 

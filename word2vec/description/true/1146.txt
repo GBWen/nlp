@@ -1,0 +1,1 @@
+"Atbrox is a company that helps companies solve problems using open source and our own technologies and methods from search, big data (e.g. hadoop) and cloud computing (e.g. AWS)

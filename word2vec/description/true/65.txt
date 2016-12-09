@@ -1,0 +1,1 @@
+HCC Profiler is built on a sophisticated cognitive computing platform that extracts knowledge from unstructured clinical data (text)."

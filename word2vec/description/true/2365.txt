@@ -1,0 +1,1 @@
+Heuritech monitors blogs, images and videos to detect products in their contexts. It uses advanced deep learning for product detection on images/videos, and multilingual text analysis to identify trends.

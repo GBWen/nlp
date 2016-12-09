@@ -1,0 +1,1 @@
+"Cobrainer is a Munich-based data analytics company that applies concepts of machine learning and natural language processing to the analysis, management and visualization of expertise. Originating in a research project at TU Munich Cobrainer was founded in 2013 by a team of engineers envisioning a fast and easy way for people to find and connect to all kinds of expertise.

@@ -1,0 +1,1 @@
+Augary turns smartphones into StreetView cars to capture valuable information about the world. They  gather a unique, commercially-valuable data layer at very large scale by integrating software into both consumer and fleet driving applications. Their team boasts recognized industry experts in computer vision and applied mathematics.

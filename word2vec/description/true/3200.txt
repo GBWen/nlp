@@ -1,0 +1,1 @@
+Users can upload study materials and past exams to their pods, which then become searchable to their classmates and online pod members. A real-time chat function allows pod members to study together or individually. 

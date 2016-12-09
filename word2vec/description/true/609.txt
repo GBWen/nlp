@@ -1,0 +1,1 @@
+We do this by bringing together several technologies such as Natural Language Processing, Machine Learning and Graph Databases to make the job of the modern knowledge worker easier and more efficient."

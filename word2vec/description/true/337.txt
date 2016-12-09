@@ -1,0 +1,1 @@
+Mobile advertising has a problem. Current-state location data collection methodologies  do not capture a mobile users actual consumer behavior. App publishers and advertisers have not had the means to personalize the mobile experience based on offline user behavioruntil now.

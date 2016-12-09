@@ -1,0 +1,1 @@
+AppThis utilizes machine learning and data analytics to show advertisements to each user. It was founded in 2014 and is based in Denver, Colorado."

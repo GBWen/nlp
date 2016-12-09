@@ -1,0 +1,1 @@
+For businesses there are commercial API options as well as private repositories. With this any organization can have the full Mapillary service in a closed environment where only users given permission may use and access the service."

@@ -1,0 +1,1 @@
+"Based on machine learning algorithm - the app gathers crowdsourcing world events data to feed into machine learning models. Multiple models are created for each vertical  Stocks, Politics, Weather etc

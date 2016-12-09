@@ -1,0 +1,1 @@
+Similarity machines or simMachines provides the most comprehensive set of nearest neighbor-based clustering, discovery, prediction and regression algorithms."

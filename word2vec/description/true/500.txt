@@ -1,0 +1,1 @@
+Founded by tech-startup veterans and based in the heart of Seattle, Vhoto is an iOS app that leverages the richness of HD video to capture and share lifes best highlights - which we call vhotos.  Using machine learning and computer vision technology, Vhoto quickly and intelligently finds the best GIFs and photos from video all in the palm of your hand.

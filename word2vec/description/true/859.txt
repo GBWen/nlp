@@ -1,0 +1,1 @@
+6. Able to compress to standard formats like JPEG, etc. in much higher speed than alternatives! (Although best performance is achieved with Infima's format).

@@ -1,0 +1,1 @@
+cohortiQ can automatically identify cohorts that contain both target and control patients. This allows you to measure and compare the efficacy of almost any health initiative. We do this with connected, patient-centric data and recent innovations in machine learning."

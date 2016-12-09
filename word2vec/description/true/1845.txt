@@ -1,0 +1,1 @@
+It allows you to sketch your designs as you normally would and then manipulate your sketches directly on your phone. Unlike similar products, the use of computer vision speeds up the process and understands your sketches.

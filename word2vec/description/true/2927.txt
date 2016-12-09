@@ -1,0 +1,1 @@
+Our second novel application is another first in the industry - diagnostic algorithms for chest xrays to detect subtle and indeterminate findings in another highly complex region of the body. This application is of particular value to trauma care environments where unstable patients and incomplete histories can challenge emergency department physicians.

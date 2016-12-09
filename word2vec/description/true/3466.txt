@@ -1,0 +1,1 @@
+Our platform is built around an editorial ""curation engine"" that combines automation, machine learning and a distributed human workforce to allow our customers to identify, authenticate and acquire relevant visual content posted on social media quickly and at scale.  

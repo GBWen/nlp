@@ -1,0 +1,1 @@
+"Ciuvo implements a range of semantic web technologies, including machine learning and recommendation systems to support users in decision making and information retrieval processes. Ciuvo is currently available as a browser extension for Mozilla Firefox and Google Chrome and will be available for Internet Explorer and Safari in the near future. 

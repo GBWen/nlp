@@ -1,0 +1,1 @@
+FY/c also uses it's algorithms to help buyers figure out which attributes -- not features -- of a cloud service such as high security or 24/7 support are right for them. This needs assessment tool asks buyers a series of questions that focus not on particular feature set but on the appropriateness of the service for their company.

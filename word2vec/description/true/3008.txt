@@ -1,0 +1,1 @@
+Roletroll is a job recommendation engine for the tech and finance communities that uses big data to match people with jobs. Roletroll uses natural language processing and extensive machine learning to adapt to users preferences and provide hyper-personalized job matches.

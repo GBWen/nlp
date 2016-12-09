@@ -1,0 +1,1 @@
+""AirVision Core"" - Small, and high-performance vision integration module (video encoding, distributing, enhancing, storing with metadata, image stabilization, DDS/ROS integration).

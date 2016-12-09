@@ -1,0 +1,1 @@
+Other our expertise area is object recognition using deep learning networks from photos or 3D point-clouds.

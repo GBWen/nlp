@@ -1,0 +1,1 @@
+Spotinst has a designated Machine Learning software that takes DevOps and financial decisions in real time and saves the overhead and management of cloud computing purchasing options such as On-Demand, Reserved and bidding strategies of Spot Instances.

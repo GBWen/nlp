@@ -1,0 +1,1 @@
+"Panoratio was established in March, 2003, in Munich, Germany. The technology grew out of work started at the Siemens AG Artificial Intelligence / Machine Learning Laboratory to address optimization issues regarding the installation and performance of gas turbine engines within Siemens Westinghouse power plants.

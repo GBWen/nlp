@@ -1,0 +1,1 @@
+Airware is building the aerial information platform for the rapid development and safe operation of commercial drones, providing hardware, software and cloud services. Airware enables customers to tailor drones to any commercial application by seamlessly connecting aircraft, sensors, payloads, and application-specific software.

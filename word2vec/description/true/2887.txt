@@ -1,0 +1,1 @@
+"Prime Aim is a knowledge network in finance. It leverages XBRL standard to construct knowledge graph to help users build trust in the field of finance.

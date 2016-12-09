@@ -1,0 +1,1 @@
+Kipod service enables instant search across petabytes of CCTV video and real-time crime detection by combining the most advanced machine learning algorithms and skilled operators.

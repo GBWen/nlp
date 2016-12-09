@@ -1,0 +1,1 @@
+Gtriage is a fast, easy way to manage Email Overload. It automatically learns which emails are important to you and then simply labels them ""Important!"". Gtriage gives you all the benefits of organized email - without any of the work."

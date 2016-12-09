@@ -1,0 +1,1 @@
+Oncora Medical is a digital health company integrating big data and machine learning into radiation oncology. Founded in 2014, Oncora is developing clinical decision support software to aid oncologists based on the results of sophisticated data analytics.

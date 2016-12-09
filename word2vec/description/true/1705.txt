@@ -1,0 +1,1 @@
+Tally performs the repetitive and laborious tasks of auditing shelves for out-of-stock items, low stock items, misplaced items, and pricing errors.  Tally operates safely during normal store hours alongside shoppers and employees."

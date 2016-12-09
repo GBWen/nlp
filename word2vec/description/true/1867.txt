@@ -1,0 +1,1 @@
+The first product under development called ""Metro Assistant"", a proactive and contextual personal assistant for the windows 8 platform that understands natural language to perform tasks such as ""Windows, Email Joe that I'm going to be late for tomorrow's meeting"".

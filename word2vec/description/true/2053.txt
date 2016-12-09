@@ -1,0 +1,1 @@
+Data Mining Hub is a  platform for the development of Data Mining and Machine Learning algorithms, which is based on iterative approach.

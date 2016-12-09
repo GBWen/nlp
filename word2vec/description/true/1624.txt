@@ -1,0 +1,1 @@
+Cytora scan the web and generate event data about the world, enabling organisations to manage Geopolitical risk in real time. Our event detection platform uses advanced Machine Learning and Natural Language Processing to transform unstructured web data into event based information, which our clients use to make risk management decisions.

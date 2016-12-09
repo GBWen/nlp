@@ -1,0 +1,1 @@
+"Stream (Techstars NYC 15) is a new kind of data store designed for building, scaling and personalizing feeds. Stream uses big data and machine learning to improve how information is connected and discovered online. The company is founded by the authors of the popular open source Stream-Framework, which has over 250,000 downloads.

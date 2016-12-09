@@ -1,0 +1,1 @@
+Our integration process takes less than an hour and can be completed via our API, by copy-pasting a snippet of code; or by using one of our apps for popular eCommerce platforms ( Magento, Shopify, Opencart, Prestashop).

@@ -1,0 +1,1 @@
+EasySize has developed an algorithm that analyses various prediction factors from the manufacturing country to the fabric and cutting. We use machine learning to analyse customer purchase behaviours, therefore our prediction accuracy improves with each additional customer purchase.

@@ -1,0 +1,1 @@
+The proprietary technology, initially developed by Prof. Nathan Intrator at Tel Aviv University, is based on recent advances in harmonic analysis and big data analytics. It provides interpretation of cognitive and emotional brain activity information, using 3 electrodes, that is superior to current 32 and 64 electrode EEG electrode technology."
